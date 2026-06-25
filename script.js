@@ -2,32 +2,32 @@ const resources = [
 {
     subject:"Calculus",
     semester:"1st Year",
-    link:"#"
+    link:"pdfs/calculus_note.pdf"
 },
 {
     subject:"Physics",
     semester:"1st Year",
-    link:"#"
+    link:"pdfs/physics_note.pdf"
 },
 {
     subject:"Discrete Mathematics",
     semester:"1st Year",
-    link:"#"
+    link:"pdfs/discrete_mathematics_note.pdf"
 },
 {
     subject:"English",
     semester:"1st Year",
-    link:"#"
+    link:"pdfs/english_note.pdf"
 },
 {
     subject:"Structured Programming",
     semester:"1st Year",
-    link:"#"
+    link:"pdfs/structured_note.pdf"
 },
 {
     subject:"Computer Fundamentals",
     semester:"1st Year",
-    link:"#"
+    link:"pdfs/computer_fundamentals_note.pdf"
 }
 ];
 
