@@ -1,6 +1,6 @@
 const resources = [
 {
-    subject:"Structured Programming",
+    subject:"Calculus",
     semester:"1st Year",
     link:"#"
 },
@@ -10,23 +10,23 @@ const resources = [
     link:"#"
 },
 {
-    subject:"Calculus",
+    subject:"Discrete Mathematics",
     semester:"1st Year",
     link:"#"
 },
 {
-    subject:"Data Structure",
-    semester:"2nd Year",
+    subject:"English",
+    semester:"1st Year",
     link:"#"
 },
 {
-    subject:"Discrete Mathematics",
-    semester:"2nd Year",
+    subject:"Structured Programming",
+    semester:"1st Year",
     link:"#"
 },
 {
-    subject:"Database Management System",
-    semester:"3rd Year",
+    subject:"Computer Fundamentals",
+    semester:"1st Year",
     link:"#"
 }
 ];
