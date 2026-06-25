@@ -2,7 +2,7 @@ const resources = [
 {
     subject:"Calculus",
     semester:"1st Year",
-    link:"pdfs/calculus_note.pdf"
+    link:"pdfs/calculus.pdf"
 },
 {
     subject:"Physics",
